@@ -40,7 +40,7 @@ Após, rode o comando `npm run dev` ou `yarn dev` para ver da aplicação em fun
 
 O deploy da aplicação ficou à cargo do Vercel.
 
-#### Você pode acessá-la a partir deste <a href="https://palpitebox-blush.vercel.app/">link</a>.
+#### Você pode acessá-la a partir deste <a href="https://palpitebox.bas.inf.br/">link</a>.
 
 <hr>
 
