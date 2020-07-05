@@ -44,4 +44,4 @@ O deploy da aplicação ficou à cargo do Vercel.
 
 <hr>
 
-Projeto desenvolvido com horas a frente do :computer: por Christopher Hauschild Schott
+Projeto desenvolvido com horas a frente do :computer: por Bruno Alves
